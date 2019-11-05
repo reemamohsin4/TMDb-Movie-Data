@@ -7,8 +7,12 @@ and answer the key question.
 
 _What properties are associated with highly rated movies?_
 
+## Data Wrangling & Cleaning
+
+The dataset is loaded into a dataframe from the file called *tmdb-movies.csv*. The data is inspected and cleaned for analysis. Duplicate rows and irrelevant columns are removed, variables are renamed, and null values are dropped. 
+
 ## Tools
 
-* tmbd-movies.csv
+* tmdb-movies.csv
 * Python
 * Jupyter notebook
